@@ -1,2 +1,2 @@
 # IMP-CODES-
-### Importannt codes in c and c++.
+### Important codes in c and c++.
